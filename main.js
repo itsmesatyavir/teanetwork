@@ -96,7 +96,7 @@ async function displayBanner(provider) {
     const bannerText = `
 ${chalk.white('===============================================')}
 ${chalk.cyan('                TEA SEPOLIA AUTO BOT')}
-${chalk.yellow('     Join Us: https://t.me/forestarmy ')}
+${chalk.yellow('     Join : https://t.me/forestarmy ')}
 ${chalk.yellow(`        Block: ${blockNumber} | Gas: ${parseFloat(gasPriceGwei).toFixed(2)} Gwei `)}
 ${chalk.white('===============================================')}
     `;
